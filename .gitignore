@@ -1,0 +1,33 @@
+# Node modules and lockfiles
+node_modules/
+package-lock.json
+
+# Build output (if using TypeScript or bundlers)
+dist/
+build/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Environment / secrets
+.env
+.env.local
+.env.*.local
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Editor settings
+.vscode/
+.idea/
+*.swp
+
+# Coverage (if you add tests later)
+coverage/
+
+# Optional: test snapshots
+__snapshots__/
