@@ -1,0 +1,24 @@
+{
+  "name": "delfi-pkce-auth",
+  "version": "1.0.1",
+  "description": "A library to add the necessary logic and routes to a node.js app to enable PKCE authentication to SLB's Delfi environment. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muzza3000/delfi-pkce-auth-npm-package.git"
+  },
+  "keywords": [
+    "slb",
+    "delfi",
+    "pkce"
+  ],
+  "author": "muzza3000",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/muzza3000/delfi-pkce-auth-npm-package/issues"
+  },
+  "homepage": "https://github.com/muzza3000/delfi-pkce-auth-npm-package#readme"
+}
